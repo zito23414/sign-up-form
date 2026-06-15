@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../../OneDrive/Desktop/proyectos"
+		},
+		{
+			"path": "../../../OneDrive/Desktop/Prs"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "css-exercises"
+	}
+}
